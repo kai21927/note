@@ -1,8 +1,6 @@
-let a: any  = '1' ;
-var b = 'test';
-var c = 123;
-
-function sum(n){
-    return n+n;
+const person  = {
+    nickname : 'AMOS',
+    address : '你猜'
 }
-console.log(sum(a));
+var a = person.nickname;
+var b = person.addresss;

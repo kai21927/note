@@ -1,3 +1,7 @@
-const message = 'Hello World';
-message.
-console.log(message.touppercase());
+const person  = {
+    nickname : 'AMOS',
+    address : '你猜'
+}
+var a = person.nickname;
+var b = person.addresss;
+

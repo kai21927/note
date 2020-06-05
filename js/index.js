@@ -1,8 +1,7 @@
 "use strict";
-var a = '1';
-var b = 'test';
-var c = 123;
-function sum(n) {
-    return n + n;
-}
-console.log(sum(a));
+var person = {
+    nickname: 'AMOS',
+    address: '你猜'
+};
+var a = person.nickname;
+var b = person.addresss;
