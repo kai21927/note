@@ -42,13 +42,30 @@
 ```
 ### 目前使用JS與TS上的差異
 
-| 語言 |型別  | 差異 |
-| ------ | ------ | ------ |
+<table width="600" border="1">
+<tr>
+<td>語言</td>
+<td>型別</td>
+<td>差異</td>
+</tr>
+<tr>
+<td>JAVA SCRIPT</td>
+<td>弱型別</td>
+<td>型別判讀上較為寬鬆</td>
+<tr>
+<tr>
+<td>TYPE SCRIPT</td>
+<td>強型別</td>
+<td>型別判讀上較為嚴謹</td>
+<tr>
+</table>
+| 語言 | 型別 | 差異 |
+| ------| ------ | ------ |
 | JAVA SCRIPT | 弱型別 | 型別判讀上較為寬鬆 |
 | TYPE SCRIPT | 強型別 | 型別判讀上較為嚴謹 |
 開發大型專案時，在ts靜態編寫時就會辨識錯誤，並且提示錯誤在哪，會減少之後debug的時間。而JS在編寫時並不會出現錯誤，直到執行時才會出現錯誤，到時再來找尋錯誤，會增加debug的時間。
 ### 介紹VS插件quokka.js協助撰寫JS或TS時更加方便
-    >按下Ctrl + Shift + P
+    >VS COKE專案中按下Ctrl + Shift + P
     上方選擇quokka.js start on current file
 可在VS CODE裡頭迅速查看console.log的結果。
 
