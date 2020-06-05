@@ -42,7 +42,7 @@
 ```
 ### 目前使用JS與TS上的差異
 
-<table width="600" border="1">
+<table >
 <tr>
 <td>語言</td>
 <td>型別</td>
