@@ -8,7 +8,7 @@
 * 大幅增強的物件導向系統，增加程式碼的表達性，進而改善團隊維護成本與開發效率
 
 ### 為什麼需要學TYPE SCRIPT?
->目前來說前端框架日新月異，不論是套件、框架，有很大的機率會轉換成另一種形式，但像RxJS、ReactJS、Angular、VueJS等主流框架和套件都開始支援TS，學TS對於目前使用主流框架是有所幫助的。
+>目前來說前端框架日新月異，不論是套件、框架，有很大的機率會轉換成另一種形式，但像RxJS、ReactJS、AngularJS、VueJS等主流框架和套件都開始支援TS，學TS對於目前使用主流框架是有所幫助的。
 
 
 ### TYPE SCRIPT環境建置
@@ -65,7 +65,7 @@
 ### 介紹VS插件quokka.js協助撰寫JS或TS時更加方便
     >VS COKE專案中按下Ctrl + Shift + P
     上方選擇quokka.js start on current file
-可在VS CODE裡頭迅速查看console.log的結果。
+可在js檔裡頭迅速查看console.log的結果。
 
 
 
